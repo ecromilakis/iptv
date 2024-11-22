@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Undefined",Mega (480p)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="45130" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas 2
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png", UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #NOTICIAS
@@ -18,6 +21,13 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #DIBUJOS ANIMADOS
 #EXTINF:-1 tvg-id="101556" tvg-name="TV Educa Chile" tvg-logo="https://lh3.googleusercontent.com/-n21PTyDUHcc/XpaNO2WOf4I/AAAAAAAAx4s/NIGFazcG1c8c5-ZwgGHD4YlTT1Nw4vUBQCK8BGAsYHg/s0/2020-04-14.png", TV Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+
+
+#VARIOS
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://cdn.m3u.cl/logo/979_13_Entretencion.png", 13 Entretencion
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM3UCL
 
 
 
