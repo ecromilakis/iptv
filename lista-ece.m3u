@@ -47,3 +47,14 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png",Super Mario Bros. La pelicula
 http://ia802200.us.archive.org/26/items/X3N7N29N/SMABSP23.mkv
 
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5280628,RESOLUTION=1920x1080,CODECS="avc1.428028,mp4a.40.2"
+uchiletv/livestream0/chunks.m3u8?nimblesessionid=3002804716
+#EXT-X-STREAM-INF:BANDWIDTH=2779180,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+uchiletv/livestream1/chunks.m3u8?nimblesessionid=3002804716
+#EXT-X-STREAM-INF:BANDWIDTH=1470533,RESOLUTION=854x480,CODECS="avc1.64001f,mp4a.40.2"
+uchiletv/livestream2/chunks.m3u8?nimblesessionid=3002804716
+#EXT-X-STREAM-INF:BANDWIDTH=441373,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2"
+uchiletv/livestream3/chunks.m3u8?nimblesessionid=3002804716
+
